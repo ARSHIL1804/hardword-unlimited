@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ARSHIL1804/hardword-unlimited/static/css/main.4b90c26c.css",
-    "main.js": "/ARSHIL1804/hardword-unlimited/static/js/main.7d1634b5.js",
-    "static/js/488.12fc2743.chunk.js": "/ARSHIL1804/hardword-unlimited/static/js/488.12fc2743.chunk.js",
-    "index.html": "/ARSHIL1804/hardword-unlimited/index.html",
-    "main.4b90c26c.css.map": "/ARSHIL1804/hardword-unlimited/static/css/main.4b90c26c.css.map",
-    "main.7d1634b5.js.map": "/ARSHIL1804/hardword-unlimited/static/js/main.7d1634b5.js.map",
-    "488.12fc2743.chunk.js.map": "/ARSHIL1804/hardword-unlimited/static/js/488.12fc2743.chunk.js.map"
+    "main.css": "/hardword-unlimited/static/css/main.4b90c26c.css",
+    "main.js": "/hardword-unlimited/static/js/main.e8a99277.js",
+    "static/js/488.12fc2743.chunk.js": "/hardword-unlimited/static/js/488.12fc2743.chunk.js",
+    "index.html": "/hardword-unlimited/index.html",
+    "main.4b90c26c.css.map": "/hardword-unlimited/static/css/main.4b90c26c.css.map",
+    "main.e8a99277.js.map": "/hardword-unlimited/static/js/main.e8a99277.js.map",
+    "488.12fc2743.chunk.js.map": "/hardword-unlimited/static/js/488.12fc2743.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b90c26c.css",
-    "static/js/main.7d1634b5.js"
+    "static/js/main.e8a99277.js"
   ]
 }

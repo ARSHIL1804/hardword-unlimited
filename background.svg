@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="none">
+  <!-- Base background -->
+  <rect width="100" height="100" fill="#ffffff"/>
+  
+  <!-- Grid pattern -->
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <!-- Subtle squares representing letter tiles -->
+      <rect width="18" height="18" x="1" y="1" fill="#f3f3f3" rx="2"/>
+      <rect width="16" height="16" x="2" y="2" fill="#fafafa" rx="1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Apply the pattern -->
+  <rect width="100" height="100" fill="url(#grid)" opacity="0.6"/>
+  
+  <!-- Subtle diagonal lines for texture -->
+  <path d="M-10,110 L110,-10" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+  <path d="M-10,90 L90,-10" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+  <path d="M-10,70 L70,-10" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+  <path d="M30,110 L110,30" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+  <path d="M50,110 L110,50" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+  <path d="M70,110 L110,70" stroke="#f0f0f0" stroke-width="0.5" opacity="0.3"/>
+</svg>

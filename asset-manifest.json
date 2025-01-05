@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hardword-unlimited/static/css/main.4b90c26c.css",
-    "main.js": "/hardword-unlimited/static/js/main.e8a99277.js",
+    "main.css": "/hardword-unlimited/static/css/main.291606dc.css",
+    "main.js": "/hardword-unlimited/static/js/main.ca9ebe89.js",
     "static/js/488.12fc2743.chunk.js": "/hardword-unlimited/static/js/488.12fc2743.chunk.js",
     "index.html": "/hardword-unlimited/index.html",
-    "main.4b90c26c.css.map": "/hardword-unlimited/static/css/main.4b90c26c.css.map",
-    "main.e8a99277.js.map": "/hardword-unlimited/static/js/main.e8a99277.js.map",
+    "main.291606dc.css.map": "/hardword-unlimited/static/css/main.291606dc.css.map",
+    "main.ca9ebe89.js.map": "/hardword-unlimited/static/js/main.ca9ebe89.js.map",
     "488.12fc2743.chunk.js.map": "/hardword-unlimited/static/js/488.12fc2743.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b90c26c.css",
-    "static/js/main.e8a99277.js"
+    "static/css/main.291606dc.css",
+    "static/js/main.ca9ebe89.js"
   ]
 }
